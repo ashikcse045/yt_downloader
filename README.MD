@@ -17,7 +17,7 @@ A simple Python script to download YouTube videos or playlists in a selected res
 ## 📁 Project Structure
 
 ```
-youtube_downloader/
+yt_downloader/
 │
 ├── downloader.py          # Main script
 ├── requirements.txt       # Dependency list
@@ -32,8 +32,8 @@ youtube_downloader/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/youtube_downloader.git
-cd youtube_downloader
+git clone https://github.com/ashikcse045/yt_downloader.git
+cd yt_downloader
 ```
 
 ### 2. Create a Virtual Environment
