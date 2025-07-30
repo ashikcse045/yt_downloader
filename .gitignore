@@ -1,0 +1,5 @@
+yt_env
+venv
+__pycache__
+downloads
+*.pyc
