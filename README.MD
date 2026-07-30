@@ -65,6 +65,15 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### 5. Update Dependencies (if needed)
+
+If the downloader stops working, update yt-dlp and refresh the requirements file:
+
+```bash
+pip install --upgrade yt-dlp
+pip freeze > requirements.txt
+```
+
 ---
 
 ## ▶️ Run the App
